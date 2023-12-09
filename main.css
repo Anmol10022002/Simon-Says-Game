@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    
+    background-color:black ;
+    
+}
+h2,h1{
+    color: azure;
+}
+
+.btn{
+    height: 12rem;
+    width:12rem;
+    margin: 3px;
+    border-radius: 30px;
+    border-color: aliceblue;
+}
+.red{
+    background-color: rgb(230, 31, 104);
+}
+.blue{
+    background-color: rgb(128, 144, 237);
+}
+.purple{
+    background-color: rgb(34, 74, 219);
+}
+.orange{
+    background-color: rgb(255, 132, 0);
+}
+.flash{
+    background-color: white;
+}
